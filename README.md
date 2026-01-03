@@ -22,6 +22,14 @@ A modern and simple Todo Application built with React that helps users manage th
 - React Hot Toast
 - Local Storage
 
+## 📸 Screenshots
+
+![Home](./screenshots/empty.png)
+
+![Tasks](./screenshots/todos.png)
+
+![Completed](./screenshots/completed.png)
+
 ## ⚙️ Installation & Setup
 
 ```bash
@@ -31,17 +39,6 @@ npm install
 npm run dev
 The app will run on:
 http://localhost:5173
-
-## 📸 Screenshots
-
-### Home / Empty State
-![Home](./screenshots/empty.png)
-
-### Tasks Added
-![Tasks](./screenshots/todos.png)
-
-### Completed Tasks
-![Completed](./screenshots/completed.png)
 
 🌐 Live Demo
 Live URL: https://tayyab-todo-app.vercel.app/
