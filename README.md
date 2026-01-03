@@ -33,7 +33,7 @@ The app will run on:
 http://localhost:5173
 
 🌐 Live Demo
-Live URL: https://todo-app.vercel.app
+Live URL: https://tayyab-todo-app.vercel.app/
 
 📂 Project Structure
 css
