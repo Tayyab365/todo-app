@@ -32,12 +32,22 @@ npm run dev
 The app will run on:
 http://localhost:5173
 
+## 📸 Screenshots
+
+### Home / Empty State
+![Home](./screenshots/empty.png)
+
+### Tasks Added
+![Tasks](./screenshots/todos.png)
+
+### Completed Tasks
+![Completed](./screenshots/completed.png)
+
 🌐 Live Demo
 Live URL: https://tayyab-todo-app.vercel.app/
 
 📂 Project Structure
-css
-Copy code
+
 src/
 components/
 AddTodo.jsx
@@ -48,6 +58,7 @@ todo/
 Todo.jsx
 App.jsx
 main.jsx
+
 📌 How It Works
 Each task contains an id, text, and status (completed or not). Tasks are managed using React state and stored in localStorage. Users can filter tasks based on their completion status and update them in real time.
 
