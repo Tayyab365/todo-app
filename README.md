@@ -33,7 +33,7 @@ A modern and simple Todo Application built with React that helps users manage th
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/Tayyab365/todo-app
+git clone https://github.com/Tayyab365/todo-app.git
 cd todo-app
 npm install
 npm run dev
