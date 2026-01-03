@@ -46,6 +46,7 @@ const Todo = () => {
   };
 
   const handleDelete = (id) => {
+    toast.dismiss();
     const updatedTodo = todos.filter((todo) => todo.id !== id);
     setTodos(updatedTodo);
     toast.success("Task Deleted Successfully");
